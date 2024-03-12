@@ -1,2 +1,13 @@
-django
-pillow
+Django
+Pillow
+django-jazzmin
+django-cors-headers
+django-extensions
+django-tinymce
+django-filter
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+drf-spectacular-sidecar
+django_bootstrap5
+PyJWT
